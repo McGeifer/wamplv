@@ -1,0 +1,11 @@
+[project]
+labview-version = 2020
+vipc = "wamplv.vipc"
+
+[nipm]
+
+[vipm]
+
+[vipm.dependencies]
+jdp_science_jsontext = "1.8.2.122"
+labview_open_source_project_lib_openuri = "1.4.0.13"
